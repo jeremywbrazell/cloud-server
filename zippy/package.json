@@ -1,0 +1,23 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremywbrazell/cloud-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremywbrazell/cloud-server/issues"
+  },
+
+  "engines": { "node" : "14.16.0" },
+  "homepage": "https://github.com/jeremywbrazell/cloud-server#readme"
+}
